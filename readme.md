@@ -3,11 +3,11 @@ Web tool to build multi-signature transaction on EOSIO chains
 
 ###Installation
 ----
-`$ npm install --save msig-tool`
+`$ npm install --save @cryptolions/msig-tool`
 
 ###Usage
 ----
-    import { Msig } from 'msig-tool';
+    import { Msig } from '@cryptolions/msig-tool';
 	...
 	const config = {
 	    expirationDate: new Date(),

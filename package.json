@@ -1,6 +1,6 @@
 {
   "name": "@cryptolions/msig-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web tool to build multi-signature transaction on EOSIO chains",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

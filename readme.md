@@ -1,11 +1,11 @@
 # @cryptolions/msig-tool
 Web tool to build multi-signature transaction on EOSIO chains
 
-###Installation
+### Installation
 ----
 `$ npm install --save @cryptolions/msig-tool`
 
-###Usage
+### Usage
 ----
     import { Msig } from '@cryptolions/msig-tool';
 	...
